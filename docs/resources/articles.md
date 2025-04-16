@@ -2,6 +2,14 @@
 id: articles
 title: Articles
 ---
+## 2025
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+| Comparative judgement modelling to map forced marriage at local levels | Ann. Appl. Stat. 19(1): 419-439. | [paper](https://doi.org/10.1214/24-AOAS1966) | [speedyBBT](https://cran.r-project.org/package=speedyBBT) | | |
+| Sleep supports consolidation of newly learned mathematical concepts. |  Quarterly Journal of Experimental Psychology | [paper](https://doi.org/10.1177/17470218251317885) || | |
+| Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis |  ICASSP 2025 | [paper](https://doi.org/10.1109/ICASSP49660.2025.10890055) || | |
+
 
 
 ## 2024
@@ -9,28 +17,20 @@ title: Articles
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
-<!--
-|Entropic Open-Set Active Learning|AAAI 2024|[Paper](https://arxiv.org/abs/2312.14126)|[Code](https://github.com/bardisafa/EOAL) | Pool.| Open-world AL |
--->
+| Comparative judgement in education research | International Journal of Research & Method in Education. 47(2) | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | |
 
 ## 2023
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | A Bayesian Active Learning Approach to Comparative Judgement | arXiv | [paper](https://arxiv.org/abs/2308.13292) | | `Edu.` |
-<!--
-|Compute-Efficient Active Learning|NeurIPS 2023 Workshop ReALML|[Paper](https://openreview.net/pdf?id=G6ujG6LaKV)|[Code](https://github.com/aimotive/Compute-Efficient-Active-Learning) | Pool., Syn. | Method-agnostic framework |
--->
 
 ## 2022
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Using Elo rating as a metric for comparative judgement in educational assessment | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | |
-<!--
-|Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
-|Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
--->
+
 
 ## 2021
 
