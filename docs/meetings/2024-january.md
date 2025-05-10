@@ -8,7 +8,8 @@ title: January 2024
 **Loughborough University, Tue 16 Jan 2024, 10:30am to 4pm**
 
 **Talks, sandpits, networking**  
-Sponsored by the National Centre for Research Methods.
+
+**Funded by the National Centre for Research Methods**
 
 ## Agenda
 
