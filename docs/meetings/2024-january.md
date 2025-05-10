@@ -3,13 +3,12 @@ id: 2024-january
 title: January 2024
 ---
 
-# The launch event of a new NCRM-sponsored Methods SIG
+# The launch event of a Comparative Judgement Special Interest Group
 
 **Loughborough University, Tue 16 Jan 2024, 10:30am to 4pm**
 
 **Talks, sandpits, networking**  
-Lunch provided, travel and caring funding availability  
-Sign up link: Comparative Judgement Users’ Day Meeting
+Sponsored by the National Centre for Research Methods.
 
 ## Agenda
 
