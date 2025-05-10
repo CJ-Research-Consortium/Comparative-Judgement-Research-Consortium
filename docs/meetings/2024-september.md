@@ -3,12 +3,11 @@ id: 2024-september
 title: September 2024
 ---
 
-# Comparative Judgement Users’ Day Meeting
+# The 2nd Comparative Judgement Users’ Day Meeting
 
 **Friday 20 September 2024, 11am to 4pm, reception from 10am**
 
 **De Montford University, 1 Richmond street**  
-It’s the building with the red door, located on number 44 on this map (PDF).
 
 **Funded by the National Centre for Research Methods**
 
